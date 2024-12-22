@@ -1,0 +1,48 @@
+{
+    "order_number": "112-3718780-5113837",
+    "order_date": "2024-12-07",
+    "shipped_date": "2024-12-07",
+    "shipping_address": {
+        "name": "Marc Del Fava",
+        "address_line_1": "2604 H ST APT D",
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "zip_code": "95816-4393",
+        "country": "United States"
+    },
+    "billing_address": {
+        "name": "Marc Del Fava",
+        "address_line_1": "2604 H ST APT D",
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "zip_code": "95816-4393",
+        "country": "United States"
+    },
+    "items": [
+        {
+            "description": "Nulo Freestyle Cat and Kitten Minced Wet Canned Food, Premium All Natural Grain-Free Wet Cat Food, Protein-Rich with Omega 6 and 3 Fatty Acids to Support Skin Health and Soft Fur, 3 Ounce (Pack of 24)",
+            "quantity": 1,
+            "price": 42.96,
+            "condition": "New"
+        },
+        {
+            "description": "Califia Farms - Oat Barista Blend Oat Milk, 32 Oz (Pack of 6), Shelf Stable, Dairy Free, Plant Based, Vegan, Gluten Free, Non GMO, High Calcium, Milk Frother, Creamer, Oatmilk",
+            "quantity": 1,
+            "price": 23.49,
+            "condition": "New"
+        }
+    ],
+    "totals": {
+        "subtotal": 66.45,
+        "discounts": 6.3,
+        "shipping_handling": 2.0,
+        "tax": 3.57,
+        "grand_total": 67.87
+    },
+    "payment_information": {
+        "method": "Visa ending in 5498",
+        "transaction_date": "2024-12-07",
+        "amount": 67.87
+    },
+    "shipping_speed": "Rush Shipping"
+}

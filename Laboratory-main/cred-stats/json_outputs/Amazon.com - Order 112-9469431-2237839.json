@@ -1,0 +1,48 @@
+{
+    "order_number": "112-9469431-2237839",
+    "order_date": "2024-11-25",
+    "shipped_date": "2024-11-26",
+    "shipping_address": {
+        "name": "Marc Del Fava",
+        "address_line_1": "2604 H ST APT D",
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "zip_code": "95816-4393",
+        "country": "United States"
+    },
+    "billing_address": {
+        "name": "Marc Del Fava",
+        "address_line_1": "2604 H ST APT D",
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "zip_code": "95816-4393",
+        "country": "United States"
+    },
+    "items": [
+        {
+            "description": "eplanita Natural Dish Brush, 3 Replacement Heads, Kitchen Eco Bamboo Scrubber Brushes, Extra Plant Sponge, Plastic Free Washing Up, Zero Waste Cleaning",
+            "quantity": 1,
+            "price": 12.99,
+            "condition": "New"
+        },
+        {
+            "description": "VIVAGO Bamboo Toothbrushes Medium Bristles 10 Pack - BPA Free Medium Bristles Toothbrushes for Adults | EcoFriendly, Compostable & Biodegradable Toothbrush | Natural Wooden Toothbrushes",
+            "quantity": 1,
+            "price": 7.18,
+            "condition": "New"
+        }
+    ],
+    "totals": {
+        "subtotal": 20.17,
+        "discounts": 0.0,
+        "shipping_handling": 0.0,
+        "tax": 1.77,
+        "grand_total": 21.94
+    },
+    "payment_information": {
+        "method": "Visa ending in 5498",
+        "transaction_date": "2024-11-26",
+        "amount": 21.94
+    },
+    "shipping_speed": "FREE Prime Delivery"
+}

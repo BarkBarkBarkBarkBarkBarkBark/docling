@@ -1,0 +1,35 @@
+services:
+  app:
+    build: .
+    container_name: creditstatsbot
+    ports:
+      - "8501:8501"  # Map Streamlit port to host
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - USE_REDIS=true
+      - SQL_AGENT_VERBOSE=true
+      - REDIS_URL=redis://redis:6379/0
+    volumes:
+      - ./export.db:/app/export.db  
+    depends_on:
+      - redis
+    networks:
+      - creditstats_network
+
+  redis:
+    image: redis:latest
+    container_name: redis
+    ports:
+      - "6379:6379"  # Map Redis port to host
+    networks:
+      - creditstats_network
+    volumes:
+      - redis_data:/data
+
+networks:
+  creditstats_network:
+    driver: bridge
+
+volumes:
+  redis_data:
+    driver: local

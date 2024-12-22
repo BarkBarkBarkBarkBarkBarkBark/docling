@@ -1,0 +1,42 @@
+{
+    "order_number": "112-2279367-2600261",
+    "order_date": "2024-09-08",
+    "shipped_date": "2024-09-08",
+    "shipping_address": {
+        "name": "Marc Del Fava",
+        "address_line_1": "2604 H ST APT D",
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "zip_code": "95816-4393",
+        "country": "United States"
+    },
+    "billing_address": {
+        "name": "Marc Del Fava",
+        "address_line_1": "2604 H ST APT D",
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "zip_code": "95816-4393",
+        "country": "United States"
+    },
+    "items": [
+        {
+            "description": "ETwinCoo All-Purpose Suction Cups Hooks [Combo Set] Reliable Strongest Window Suction Cups with Hooks (2 Large/2.36 Inches, 4 Medium/1.77 Inches, 6 Small/1.18 Inches), 12 Pack",
+            "quantity": 1,
+            "price": 6.99,
+            "condition": "New"
+        }
+    ],
+    "totals": {
+        "subtotal": 6.99,
+        "discounts": 0.0,
+        "shipping_handling": 0.0,
+        "tax": 0.61,
+        "grand_total": 7.6
+    },
+    "payment_information": {
+        "method": "Visa ending in 5498",
+        "transaction_date": "2024-09-08",
+        "amount": 7.6
+    },
+    "shipping_speed": "FREE Prime Delivery"
+}

@@ -1,0 +1,42 @@
+{
+    "order_number": "112-1540554-9729837",
+    "order_date": "2024-11-29",
+    "shipped_date": "2024-11-29",
+    "shipping_address": {
+        "name": "Marc Del Fava",
+        "address_line_1": "2604 H ST APT D",
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "zip_code": "95816-4393",
+        "country": "United States"
+    },
+    "billing_address": {
+        "name": "Marc Del Fava",
+        "address_line_1": "2604 H ST APT D",
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "zip_code": "95816-4393",
+        "country": "United States"
+    },
+    "items": [
+        {
+            "description": "VIPwax White Beeswax Pellets 1LB, 100% Organic Beeswax, Beeswax for Candle Making, Body, Skin Care DIY, Lip Balm and Soap Making Supplies",
+            "quantity": 1,
+            "price": 7.29,
+            "condition": "New"
+        }
+    ],
+    "totals": {
+        "subtotal": 7.29,
+        "discounts": 0.0,
+        "shipping_handling": 0.0,
+        "tax": 0.64,
+        "grand_total": 7.93
+    },
+    "payment_information": {
+        "method": "Visa ending in 5498",
+        "transaction_date": "2024-11-29",
+        "amount": 7.93
+    },
+    "shipping_speed": "FREE Prime Delivery"
+}

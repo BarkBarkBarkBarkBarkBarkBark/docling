@@ -1,0 +1,42 @@
+{
+    "order_number": "112-0057223-0306672",
+    "order_date": "2024-11-10",
+    "shipped_date": "2024-11-10",
+    "shipping_address": {
+        "name": "Marc Del Fava",
+        "address_line_1": "2604 H ST APT D",
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "zip_code": "95816-4393",
+        "country": "United States"
+    },
+    "billing_address": {
+        "name": "Marc Del Fava",
+        "address_line_1": "2604 H ST APT D",
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "zip_code": "95816-4393",
+        "country": "United States"
+    },
+    "items": [
+        {
+            "description": "Stella & Chewy's Meowfulls Freeze Dried Cat Treats Turkey & Duck Recipe, 1.5 oz Bag",
+            "quantity": 2,
+            "price": 7.99,
+            "condition": "New"
+        }
+    ],
+    "totals": {
+        "subtotal": 15.98,
+        "discounts": 0.0,
+        "shipping_handling": 0.0,
+        "tax": 1.4,
+        "grand_total": 17.38
+    },
+    "payment_information": {
+        "method": "Visa ending in 5498",
+        "transaction_date": "2024-11-10",
+        "amount": 17.38
+    },
+    "shipping_speed": "FREE Prime Delivery"
+}
